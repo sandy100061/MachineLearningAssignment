@@ -15,4 +15,4 @@ print(f'Array after adding minAge and maxAge {ages}')
 arrayLen = len(ages)
 if arrayLen % 2 == 0:
     middle = arrayLen/2
-    median = ages[middle] + ages[middle+1])
+    median = ages[middle] + ages[middle+1]
