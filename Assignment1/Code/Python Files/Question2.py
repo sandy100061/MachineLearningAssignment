@@ -39,6 +39,7 @@ print('')
 #----------------------------------------------------
 print('---------------Question 2 -> Point 5-----------------')
 skills = student['skills']
+print(f'value of skills {skills}')
 print(f'Datatype of skills is {type(skills)}')
 print('')
 
