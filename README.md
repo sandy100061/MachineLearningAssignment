@@ -7,6 +7,6 @@
  
  ### Video Link
  #### Assignment 01 Link-  https://drive.google.com/file/d/1Zj6D7z3mHXPrtvy_QCCHLJJMzoHHsyMf/view
- 
+ #### Assignment 02 Link-  https://drive.google.com/file/d/13doTB3vm1p3kA6bJ4hmTn0UdQLh2ahak/view?usp=drive_link 
 
  
